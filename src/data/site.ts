@@ -4,9 +4,9 @@
  */
 export const SITE = {
   name: 'Tech-Ex',
-  email: 'hello@tech-ex.example',
-  phone: '+00 000 000 0000',
-  location: 'Your City, Your Country',
+  email: 'hello@techex.com',
+  phone: '+91 969 454 1870',
+  location: 'Jaipur, India',
   get year() {
     return new Date().getFullYear()
   },
