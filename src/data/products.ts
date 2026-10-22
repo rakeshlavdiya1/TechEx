@@ -25,7 +25,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'See. Detect. Assess. Respond. Protect.',
     icon: ShieldCheck,
     accent: '#22d3ee',
-    points: ['Security Operations Center', 'Vulnerability assessment', 'Penetration testing'],
+    points: ['Security Operations Center', 'Vulnerability assessment', 'Security Dashboard'],
   },
   {
     id: 'business-one',
